@@ -1,0 +1,5 @@
+.vercel
+.env*
+.netlify/
+.env.local
+__pycache__/
