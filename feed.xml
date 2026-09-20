@@ -4,10 +4,17 @@
     <title>Remote Tech Careers &amp; Global Compensation Hub</title>
     <link>https://remote-developer-jobs-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:04:01 GMT</lastBuildDate>
     <atom:link href="https://remote-developer-jobs-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                <item>
+                                    <item>
+      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/golang/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/remote-developer-jobs-alpha-hub/#remote-developer-jobs-alpha-hub-reddit-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:04:01 GMT</pubDate>
+      <description>Newly verified community added to Remote Tech Careers &amp; Global Compensation Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/javascript Global Hub (Reddit)</title>
       <link>https://www.reddit.com/r/javascript/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/remote-developer-jobs-alpha-hub/#remote-developer-jobs-alpha-hub-reddit-20260919-1-2026-09-19</guid>
